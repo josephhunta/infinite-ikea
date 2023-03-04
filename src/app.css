@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/stalker');
+
+:root {
+  font-family: 'STALKER1', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+#app{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
